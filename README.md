@@ -1,6 +1,6 @@
 # MyLife
 
-## Please Read
+ Please Read Developer
 
 clone or download the https://github.com/prime31/Nez
 
